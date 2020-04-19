@@ -1,3 +1,0 @@
-Hello There,
-
-This is commit 4 from Mr. Patel
